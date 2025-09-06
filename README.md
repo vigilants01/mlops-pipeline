@@ -29,11 +29,6 @@ We use a Random Forest Classifier trained on the **Pima Indians Diabetes Dataset
 
 ### 1. Clone the Repo
 
-```bash
-git clone https://github.com/iam-veeramalla/first-mlops-project.git
-cd first-mlops-project
-```
-
 ### 2. Create Virtual Environment
 
 ```
@@ -90,10 +85,4 @@ docker run -p 8000:8000 diabetes-prediction-model
 ```
 kubectl apply -f diabetes-prediction-model-deployment.yaml
 ```
-
-🙌 Credits
-
-Created by `ABHISHEK VEERAMALLA`
-
-Subscribe for more DevOps + MLOps content on the YouTube Channel - `Abhishek.Veeramalla`
 
